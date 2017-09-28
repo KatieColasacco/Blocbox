@@ -43,6 +43,11 @@ p {
   margin:0 2% 20px;
 }
 
+@media (max-width: 767px) {
+  .container {
+    width: 100%;
+  }
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
