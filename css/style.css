@@ -141,7 +141,17 @@ header {
    display: block;
    margin:3em auto 0;
  }
-
+@media (max-width: 573px) {
+  header .one-half {
+    width: 96%;
+    text-align: center;
+  }
+  header nav ul {
+    text-align: center;
+    float: none;
+    padding-left: 0px;
+  }
+}
  /* BUTTONS */
  .btn {
    border-radius: 4px;
