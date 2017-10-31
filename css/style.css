@@ -565,6 +565,7 @@ header {
  }
  .settings-menu {
    z-index: -1;
+   margin-top: 0px;
  }
 
  /* CONTENT */
