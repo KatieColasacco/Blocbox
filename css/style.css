@@ -565,6 +565,7 @@ header {
    float: right;
    margin-right:10px;
    margin-top:8px;
+   padding-bottom: 8px;
  }
  .settings-menu {
    z-index: -1;
